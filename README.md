@@ -6,7 +6,7 @@ Your Name, yourcontact@unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+I was thinking of taking on almost a combination of the bucket list and film approaches to generative texts. The AI would generate a list of things for me to do and I would record a video of me doing those things to go along with it. I was also thinking about possibly making it create it's own screen directions for me. This way I would have specific actions I would have to perform while doing certain tasks and maybe it'll pick settings for them as well. In the end, I want to make a short video about me crossing things off of an AI generated bucket list in interesting and entertaining ways.
 
 ## Model/Data
 
