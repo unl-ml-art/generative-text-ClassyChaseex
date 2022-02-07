@@ -1,6 +1,6 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
+Karston Chase, kchase4@huskers.unl.edu
 
 (Your teammate's contact info, if appropriate)
 
