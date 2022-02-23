@@ -12,9 +12,8 @@ I trained GPT-2 with a list of around 100 various baking recipies that all inclu
 
 ## Code
 
-Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+- recipes.txt - training data
+- gpt2-generate-finetune.ipynb - generation code
 
 ## Results
 
