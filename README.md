@@ -4,7 +4,7 @@ Karston Chase, kchase4@huskers.unl.edu
 
 ## Abstract
 
-I was thinking of taking on recipe and film approache to generative texts. The AI would generate its own recipe of something for me to bake and I would record a video of me following the instructions no matter what it asks. In the end, I'm hoping I can wind up making something that is actually edible and maybe even learn some type of new experimental cooking technique.
+I was thinking of taking on recipe and film approach to the generative text. The AI would generate its own recipe of something for me to bake and I would record a video of me following the instructions no matter what it asks. In the end, I'm hoping I can wind up making something that is actually edible and maybe even learn some type of new experimental cooking technique.
 
 ## Model/Data
 
